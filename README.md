@@ -17,3 +17,13 @@ Start time: 9:12am
 Finish time: 9:18am
 
 Actual time needed to complete: 6 min
+
+**Number and name of feature: database migration**
+
+Estimate of time needed to complete: 20min
+
+Start time: 9:12am
+
+Finish time: 9:50am
+
+Actual time needed to complete: 38 min
