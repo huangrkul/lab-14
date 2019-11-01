@@ -27,3 +27,13 @@ Start time: 9:12am
 Finish time: 9:50am
 
 Actual time needed to complete: 38 min
+
+**Number and name of feature: migration documentation**
+
+Estimate of time needed to complete: 10min
+
+Start time: 9:50am
+
+Finish time: 9:56am
+
+Actual time needed to complete: 6 min
